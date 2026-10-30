@@ -1,0 +1,1 @@
+Dataset note: The NASA PCoE battery data is a separate public research resource. This software's MIT license does not relicense the dataset. Follow the source archive's terms and cite the original dataset authors.
